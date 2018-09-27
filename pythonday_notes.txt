@@ -1,3 +1,6 @@
+http://scikit-learn.org/stable/auto_examples/index.html
+https://www.practicepython.org/
+
 class HelloWorld: 
 	x = 10; 
 	y = 20; 
